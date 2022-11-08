@@ -1,0 +1,10 @@
+version: '2'
+services:
+  node1:
+    build:
+      context: .
+      dockerfile: Dockerfile
+  node2:
+      context: .
+      dockerfile: Dockerfile
+

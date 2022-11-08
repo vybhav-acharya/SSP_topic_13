@@ -1,0 +1,273 @@
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+5,48270,44077,42659.23
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+9,48074,44017,42567.50
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+14,48428,44000,42636.82
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+14,48129,44027,42647.65
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+7,48289,43922,42804.33
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+8,48148,44019,42756.61
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+6,48587,44180,43054.63
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+8,48220,44141,43296.45
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+10,48097,43972,42807.57
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+5,48707,43990,42652.60
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+11,48295,44009,42760.53
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+9,48132,43900,42586.96
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+12,48198,43981,42643.11
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+11,48199,44019,42722.87
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+10,48252,44073,42928.16
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+5,47913,43947,42706.65
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+14,48337,44034,42742.73
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+5,48144,44037,42888.32
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+10,48075,44043,42942.66
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+16,48357,44022,43325.67
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,48062,43973,42995.80
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48510,44026,42917.45
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48109,43909,42962.26
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+10,44436,43894,43038.62
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,47796,44033,43082.88
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+10,48184,44026,43141.14
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+11,48068,43965,43097.84
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+11,48182,43939,43210.37
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+6,48222,44036,43218.08
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48015,44069,43197.82
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+8,47991,43948,43072.65
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+16,48236,43940,43316.44
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+12,48032,43917,43326.84
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,48311,43932,43444.10
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,48165,44202,43802.74
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+6,48215,44294,44226.56
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48243,44035,43327.26
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48356,43981,43375.22
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48221,43948,43350.38
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+11,48121,44067,43533.07
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48108,43948,43286.32
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+12,48061,44025,43262.39
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+16,48087,43880,43327.57
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48245,44145,43684.56
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48283,44312,44240.27
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+8,48010,44018,43525.72
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48180,44087,43606.00
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48180,44052,43524.28
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48171,43990,43480.16
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+13,48082,43965,43456.02
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,48211,44017,43498.79
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,48277,44020,43719.34
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+15,48144,44077,43746.40
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+11,48073,43990,43533.01
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48000,44000,43427.80
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48069,43991,43506.18
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,47966,44008,43446.09
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+14,48016,44051,43490.44
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+16,48238,44149,43711.98
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+12,48096,44028,43638.82
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+7,48287,44247,44228.19
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+21,48211,44066,43681.20
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,47973,43917,43433.06
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+7,48117,43973,43474.78
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,48147,44061,43557.18
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48133,43948,43448.17
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+20,48186,44018,43595.07
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48032,43964,43515.90
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+11,48191,44145,43846.05
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+16,48018,43956,43522.78
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+16,44455,43880,43418.98
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48090,43973,43642.15
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48245,43982,43705.55
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,47717,43991,43629.18
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48218,44078,43760.68
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48297,44122,43734.69
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48135,44050,43644.14
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48255,44027,43740.79
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48182,44069,43732.35
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48047,43982,43654.19
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+20,48062,43991,43649.46
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+18,48515,44077,43731.07
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,48285,44089,43810.19
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+12,48114,44018,43704.54
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+20,48157,43965,43646.45
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48277,44037,43814.79
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+17,48055,44060,43703.32
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48309,43973,43748.01
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+12,47977,44008,43636.62
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+19,48047,44025,43648.62
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to localhost () port 0 AF_INET : histogram : interval : dirty data : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,50th Percentile Latency Microseconds,Mean Latency Microseconds
+21,48246,44071,43780.71
